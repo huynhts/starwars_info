@@ -2,8 +2,9 @@
   "name": "20190814",
   "version": "1.0.0",
   "description": "starwars info using express",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "hi"
   },
   "repository": {
