@@ -1,0 +1,28 @@
+{
+  "name": "20190814",
+  "version": "1.0.0",
+  "description": "starwars info using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhts/starwars_info.git"
+  },
+  "keywords": [
+    "starwars",
+    "info",
+    "express",
+    "node"
+  ],
+  "author": "sang h",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhts/starwars_info/issues"
+  },
+  "homepage": "https://github.com/huynhts/starwars_info#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
